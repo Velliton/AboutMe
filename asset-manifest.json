@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AboutMe/static/css/main.b37dd7f7.css",
+    "main.js": "/AboutMe/static/js/main.9695c88c.js",
+    "static/media/flexbox.mp4": "/AboutMe/static/media/flexbox.c03a0331d3f680de11f7.mp4",
+    "static/media/11grade.JPG": "/AboutMe/static/media/11grade.d1bffbe5b0894aee61aa.JPG",
+    "static/media/now.png": "/AboutMe/static/media/now.bbfb3ea7e2ee5c38d313.png",
+    "index.html": "/AboutMe/index.html",
+    "main.b37dd7f7.css.map": "/AboutMe/static/css/main.b37dd7f7.css.map",
+    "main.9695c88c.js.map": "/AboutMe/static/js/main.9695c88c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b37dd7f7.css",
+    "static/js/main.9695c88c.js"
+  ]
+}
